@@ -1,0 +1,9 @@
+1) Exception
+2) Inheritance,Polymorphism,Overloading,Overriding
+3) JWT  - JSON Web Tokens
+        - Tokens are shared between client (browser) and the server(Django)
+        - Tokens are not stored like knox tokens
+        - It uses HS256 Algorithm as default to create tokens
+        - Refresh Token:
+        - Access Token:
+
